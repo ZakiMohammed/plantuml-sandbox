@@ -27,4 +27,4 @@ Rel(personAlias, containerAlias, "Label", "Optional Technology")
 ```
 
 ### From Image File:
-![This is my diagram](..\out\c4\c4-first\C4_Elements.png)
+![This is my diagram](https://github.com/ZakiMohammed/plantuml-sandbox/raw/master/out/c4/c4-first/C4_Elements.png)
